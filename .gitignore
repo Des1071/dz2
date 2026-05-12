@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+*.db
+.pytest_cache/
+screen/
+*.log
+.DS_Store
+.idea/
+.vscode/
+bot_service/.env
+auth_service/.env
